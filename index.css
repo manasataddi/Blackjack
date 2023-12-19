@@ -1,0 +1,52 @@
+body {
+    font-family: "Sofia", sans-serif;
+    background-image: url("https://gmimages.cdnppb.net/paddypower-com%2F95a0647a-7e01-449f-ab19-bce4cf52d390_designs-38676_pp-games_cashout_blackjack_bg_paddygreen.jpg?auto=compress,format&rect=0,0,900,900&w=900&h=900");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+
+h1 {
+    color: #99d98c;
+    font-size: 50px;
+    
+}
+
+#img{
+    width: 100px;
+
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+#all-msg {
+    font-size: 20px;
+    
+    
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: #99d98c;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: 3px solid #d9ed92;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+
+}
